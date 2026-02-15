@@ -74,7 +74,7 @@ To open and use this project, you need:
 
 ## 📸 Screenshots
 
-*(Add screenshots of your dashboard here for better presentation)*
+<img width="581" height="334" alt="image" src="https://github.com/user-attachments/assets/416a54af-e6a3-45dc-a47f-6e1a613aefe1" />
 
 ## 📁 File Structure
 
@@ -85,8 +85,7 @@ README.md           # Project documentation
 
 ## 👤 Author
 
-* Name: *(Your Name)*
-* Contact: *(Optional — Email or LinkedIn)*
+* Name: *Rosie Vu*
 
 ## 📄 License
 
