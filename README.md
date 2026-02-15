@@ -75,6 +75,8 @@ To open and use this project, you need:
 ## 📸 Screenshots
 
 <img width="581" height="334" alt="image" src="https://github.com/user-attachments/assets/416a54af-e6a3-45dc-a47f-6e1a613aefe1" />
+<img width="1180" height="671" alt="image" src="https://github.com/user-attachments/assets/6b92d23a-b789-45b2-97c3-9f0f03fc9644" />
+<img width="1171" height="647" alt="image" src="https://github.com/user-attachments/assets/91554823-0ac5-4bbf-a0d4-6e51ef31248d" />
 
 ## 📁 File Structure
 
